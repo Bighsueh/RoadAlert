@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">RoadAlert</string>
-    <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="title_home">首頁</string>
+    <string name="title_maps">地圖</string>
+    <string name="title_dashboard">目前路況</string>
+    <string name="title_notifications">新增報警 </string>
 </resources>
